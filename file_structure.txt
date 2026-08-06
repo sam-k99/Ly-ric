@@ -1,0 +1,23 @@
+lyric/
+│
+├── main.py              # Entry point: CLI loop, key handling, playback logic
+├── requirements.txt     # Dependencies: yt-dlp, rich, syncedlyrics, requests, ytmusicapi
+├── README.md            # Project documentation
+│
+├── player/              # Core application package
+│   ├── __init__.py      # (Implicit) Makes 'player' a package
+│   ├── ui.py            # Rich UI rendering (Panel, Logo, Lyrics, Progress Bar)
+│   ├── youtube.py       # YouTube Music API wrapper (Search, Queue building)
+│   ├── lyrics.py        # Synced lyrics fetching (syncedlyrics wrapper)
+│   └── mpv_controller.py    # MPV IPC wrapper (Audio playback, Event listening)
+│   |--- __pycache__
+              |-ui.cpython-314.pyc           
+              |-youtube.cpthon-314.pyc
+              |-mpv_controller.cpthon-314.pyc
+              |-lyrics.cpthon-314.pyc
+              |-__init__.cython-314.pyc
+              
+└── venv/                    # Python virtual environment (ignored by git usually)
+    ├── bin/
+    ├── lib/
+    └── ...
