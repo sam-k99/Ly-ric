@@ -22,7 +22,7 @@ recommendation engine.
 ## Installation
 
 ```bash
-git clone https://github.com/YOUR_USERNAME/lyric.git
+git clone https://github.com/sam-k99/lyric.git
 cd lyric
 python3 -m venv venv
 source venv/bin/activate
