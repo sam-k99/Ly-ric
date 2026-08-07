@@ -1,4 +1,4 @@
-# LY-RIC Term
+# lyric
 
 A terminal-based YouTube Music player with synced lyrics, radio-style
 autoplay and vim-style controls. Built with Python, mpv and YouTube Music's
