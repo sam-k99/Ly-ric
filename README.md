@@ -1,3 +1,4 @@
+<img width="1903" height="1013" alt="screenshot_20260811_134154" src="https://github.com/user-attachments/assets/849ded46-23a7-4913-a382-427f06e1520f" />
 # lyric
 
 A terminal-based YouTube Music player with synced lyrics, radio-style
