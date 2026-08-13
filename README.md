@@ -1,5 +1,5 @@
 <img width="1891" height="1003" alt="lyric_song_search" src="https://github.com/user-attachments/assets/6d9088be-3df2-45d9-b4ce-a86a259fbe17" />
-<img width="1903" height="1013" alt="screenshot_20260811_134154" src="https://github.com/user-attachments/assets/849ded46-23a7-4913-a382-427f06e1520f" />
+<img width="1903" height="1013" alt="Dashboard" src="https://github.com/user-attachments/assets/849ded46-23a7-4913-a382-427f06e1520f" />
 
 A terminal-based YouTube Music player with synced lyrics, radio-style
 autoplay and vim-style controls. Built with Python, mpv and YouTube Music's
