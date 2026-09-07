@@ -1,4 +1,3 @@
-this is a ghost testing...
 
 
 <img width="1891" height="1003" alt="lyric_song_search" src="https://github.com/user-attachments/assets/6d9088be-3df2-45d9-b4ce-a86a259fbe17" />
