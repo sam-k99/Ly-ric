@@ -1,6 +1,6 @@
 <div align="center">
 
-# Lyric
+# Ly-ric
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-3776AB?logo=python&logoColor=white)
 ![YouTube Music](https://img.shields.io/badge/Source-YouTube_Music-FF0000?logo=youtubemusic&logoColor=white)
